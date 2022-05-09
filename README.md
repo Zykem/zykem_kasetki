@@ -1,7 +1,7 @@
 # zykem_kasetki
- Skrypt na napady na Kasetki
- Skrypt zabiera 0.01ms w bezruchu a 0.05ms podczas napadu
- Kod nie jest najlepszy wygladowo, ale jest prosta konfiguracja w config.lua
+ 1. Skrypt na napady na Kasetki
+ 2. Skrypt zabiera 0.01ms w bezruchu a 0.05ms podczas napadu
+ 3. Kod nie jest najlepszy wygladowo, ale jest prosta konfiguracja w config.lua
 
 
 # Instalacja
