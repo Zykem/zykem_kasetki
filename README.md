@@ -3,6 +3,8 @@
  2. Skrypt zabiera 0.01ms w bezruchu a 0.05ms podczas napadu
  3. Kod nie jest najlepszy wygladowo, ale jest prosta konfiguracja w config.lua
 
+-- kiedys bedzie update --
+
 
 # Instalacja
 1. Pobierz pliki
